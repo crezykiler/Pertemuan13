@@ -20,7 +20,6 @@ public class Kafe17 {
         System.out.println("=========================");
         System.out.println("Silakan pilih menu yang Anda inginkan.");
 
-     
         if (kodePromo.equals("DISKON50")) {
             System.out.println("Kode promo diterima! Anda mendapatkan diskon 50%.");
         } else if (kodePromo.equals("DISKON30")) {
